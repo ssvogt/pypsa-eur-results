@@ -10,4 +10,4 @@ This repository contains the result nc files of the runs with different configur
 
 In each on the configuration folders 3 result files can be found according to 3 scenarios with different CO2 targets (Co2L0.011533: low emission target, Co2L0.067468: medium CO2 emission target, Co2L0.33865: high CO2 emission target). 
 
-Furthermore the folder FILES and contain subfolders with changed scripts and input data files, which needed to be adjusted in order to make the described configurations possible.
+Furthermore the folder 'FILES and settings' contain subfolders with changed scripts and input data files, which needed to be adjusted in order to make the described configurations possible.
